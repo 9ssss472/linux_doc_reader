@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "fonts_manager.h": "c",
+        "encoding_manager.h": "c",
+        "mman.h": "c",
+        "draw.h": "c",
+        "display.h": "c",
+        "config.h": "c",
+        "input.h": "c",
+        "pic_operation.h": "c"
+    }
+}
